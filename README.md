@@ -1,8 +1,10 @@
 # GitXBT
 
+AI Agent powering Github Insights for Crypto Traders
+
 ## Overview
 
-GitXBT analyzes GitHub repository activity to provide actionable insights for cryptocurrency traders. By leveraging AI, we help identify promising projects and potential red flags through development metrics.
+GitXBT is a cutting-edge AI Agent that bridges the gap between GitHub activity and crypto trading. It analyzes and tweets real-time insights about the GitHub repositories of crypto projects, empowering traders with actionable data to make informed decisions.
 
 ## Features
 
